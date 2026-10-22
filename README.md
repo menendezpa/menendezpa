@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Pablo Menéndez 👋</h1>
+<h1 align="center">Hola, soy Pablo Menéndez</h1>
 <p align="center">
   Estudiante de Ingeniería Informática en la Universidad de Alcalá · Técnico en DAM<br>
   Desarrollo Android con Kotlin y Jetpack Compose, y me gusta automatizar cosas con Python.
@@ -12,14 +12,14 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
 - 🎓 Cursando el **Grado en Ingeniería Informática** (UAH) tras terminar el ciclo de **DAM**.
 - 📱 Mi foco actual: apps Android modernas con **Kotlin, Jetpack Compose y Firebase**.
 - 🌱 Aprendiendo ahora: **C++** y **C**.
 - 💼 Busco mi **primera experiencia profesional** en desarrollo de software. ¡Hablemos!
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,git" alt="Tecnologías">
 </p>
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
